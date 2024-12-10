@@ -1,0 +1,11 @@
+{
+  "name": "youthexplorer-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:OpenUpSA/youthexplorer-website.git",
+  "author": "paulmwatson <github.com@paulmwatson.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
