@@ -327,12 +327,7 @@ a {
   background-color: #f7f7f7;
 }
 
-.fs_accordion-2_header:focus-visible {
-  outline-offset: 4px;
-  outline: 2px solid #9b9b9b;
-}
-
-.fs_accordion-2_header[data-wf-focus-visible] {
+.fs_accordion-2_header:focus-visible, .fs_accordion-2_header[data-wf-focus-visible] {
   outline-offset: 4px;
   outline: 2px solid #9b9b9b;
 }
